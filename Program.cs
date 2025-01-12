@@ -27,6 +27,7 @@ void buscaPalavra()
 }
 
 
+
 // Exercício 2: 
 
 Array amostra = Array.CreateInstance(typeof(int), 5);
@@ -37,7 +38,7 @@ amostra.SetValue(3, 2);
 amostra.SetValue(7, 3);
 amostra.SetValue(9, 4);
 
-mediana(amostra);
+// mediana(amostra);
 void mediana(Array array)
 {
 
@@ -58,3 +59,7 @@ void mediana(Array array)
 
     Console.Write($"Com base na amostra, a mediana é igual a: {mediana}");
 }
+
+
+
+// Exercício 3: 
