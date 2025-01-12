@@ -63,3 +63,7 @@ void mediana(Array array)
 
 
 // Exercício 3: 
+void arrayDeContasCorrentes()
+{
+    ContaCorrente[] listaDeContas = new ContaCorrente[]
+}
